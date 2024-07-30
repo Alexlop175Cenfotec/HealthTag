@@ -43,7 +43,7 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 - Cables varios (USB y jumper)
 
 <p align="center"> 
-  <img src="Imagenes/kitExpoCenfo.jpg" alt="Logo" width="400"/>
+  <img src="Imagenes/Board.jpg" alt="Logo" width="300"/><img src="Imagenes/RFID.jpg" alt="Logo" width="300"/><img src="Imagenes/Sensor-de-Pulso-Cardiaco_2.jpg" alt="Logo" width="300"/><img src="Imagenes/USB.jpg" alt="Logo" width="300"/><img src="Imagenes/Jumpers.jpg" alt="Logo" width="300"/>
 </p>
 
 ## Objetivos:
