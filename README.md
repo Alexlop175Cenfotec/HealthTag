@@ -29,6 +29,21 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 - Seguridad de Datos: Los datos del usuario estarán cifrados y almacenados de manera segura, garantizando la privacidad y protección contra accesos no autorizados.
 - Diseño Amigable: La pulsera será cómoda de usar y diseñada para ser duradera, adecuada para el uso diario.
 
+## Componentes:
+
+- Microcontrolador IdeaBoard (ESP32)
+- Joystick - Ejemplo de uso
+- Pantalla LCD 16 x 2 - Ejemplo de uso
+- Módulo RFID - Ejemplo de uso
+- Relé de 2 canales - Ejemplo de uso
+- Lector de código QR - Ejemplo de uso
+- Adaptador
+- Cables varios (USB y jumper)
+
+<p align="center"> 
+  <img src="Imagenes/kitExpoCenfo.jpg" alt="Logo" width="400"/>
+</p>
+
 ## Objetivos:
 1. Desarrollar la Pulsera RFID: Diseñar y crear la pulsera física con un chip RFID integrado.
 2. Construir la Página Web Móvil: Crear una página web móvil receptiva y fácil de usar para mostrar la información médica del usuario cuando se escanee la pulsera.
@@ -41,9 +56,6 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 - Desarrollo Backend: Tecnologías del lado del servidor para manejar el cifrado de datos y el almacenamiento seguro.
 - Base de Datos: Una base de datos en línea para almacenar y gestionar la información médica del usuario.
 
-<p align="center"> 
-  <img src="Imagenes/kitExpoCenfo.jpg" alt="Logo" width="400"/>
-</p>
   
 
 ## Escenarios de Uso:
