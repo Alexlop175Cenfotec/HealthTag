@@ -1,4 +1,5 @@
-<h1 align="center"> 
+<div align="center">
+<h1> 
   HealthTag
 </h1>
 <p align="center"> 
@@ -6,7 +7,8 @@
 </p>
 
 Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Universidad Cenfotec ExpoCenfo.
-
+</div>
+  
 ## Descripción del Proyecto:
 El proyecto de la Pulsera Médica con RFID tiene como objetivo desarrollar una pulsera inteligente integrada con tecnología RFID. Esta pulsera, al ser escaneada, mostrará la información médica del usuario en una página web móvil. El propósito es proporcionar acceso rápido a datos médicos críticos en caso de una emergencia, potencialmente salvando vidas al asegurar que los primeros auxilios tengan la información necesaria.
 
