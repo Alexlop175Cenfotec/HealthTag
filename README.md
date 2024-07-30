@@ -1,6 +1,4 @@
-# HealthTag
-
-![Logo](Imagenes/logoSoloImagen.png)
+# HealthTag ![Logo](Imagenes/logoSoloImagen.png)
 
 Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Universidad Cenfotec ExpoCenfo.
 
