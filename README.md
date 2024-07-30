@@ -36,8 +36,6 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
   <img src="Imagenes/Scan.png" alt="Logo" width="250"/>
 </p>
 
-<br>
-
 ## Objetivos:
 1. Desarrollar la Pulsera RFID: Diseñar y crear la pulsera física con un chip RFID integrado.
 2. Construir la Página Web Móvil: Crear una página web móvil receptiva y fácil de usar para mostrar la información médica del usuario cuando se escanee la pulsera.
