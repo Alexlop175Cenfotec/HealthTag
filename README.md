@@ -19,6 +19,8 @@ Es una competencia nacional abierta a todos los estudiantes que cursan alguna ca
 
 El reglamento completo del desarrollo y presentación de proyectos lo puedes encontrar en este [link](https://ucenfotec.ac.cr/expocenfo/).
 
+<br/>
+
 <h2>Descripción del Proyecto:</h2> 
 
 <p align="justify">El proyecto de la Pulsera Médica tiene como objetivo desarrollar una pulsera inteligente integrada con tecnología RFID. Esta pulsera, al ser escaneada, mostrará la información médica del usuario en una página web móvil. El propósito es proporcionar acceso rápido a datos médicos críticos en caso de una emergencia, potencialmente salvando vidas al asegurar que los primeros auxilios tengan la información necesaria.
