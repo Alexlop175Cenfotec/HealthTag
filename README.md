@@ -36,6 +36,14 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
   <img src="Imagenes/Scan.png" alt="Logo" width="250"/>
 </p>
 
+<br>
+
+## Objetivos:
+1. Desarrollar la Pulsera RFID: Diseñar y crear la pulsera física con un chip RFID integrado.
+2. Construir la Página Web Móvil: Crear una página web móvil receptiva y fácil de usar para mostrar la información médica del usuario cuando se escanee la pulsera.
+3. Garantizar la Seguridad de los Datos: Implementar medidas de seguridad robustas para proteger los datos médicos del usuario.
+4. Pruebas de Usuario y Retroalimentación: Realizar pruebas de usuario para recopilar retroalimentación y realizar las mejoras necesarias en la pulsera y la página web móvil.
+
 ## Características:
 - Tecnología RFID: La pulsera incluirá un chip RFID integrado que permitirá de manera segura el intercambio de información entre el dispositivo y la página web.
 - Accesibilidad Móvil: Al escanear la pulsera RFID, los datos médicos del usuario se mostrarán en una página web móvil. Esto garantiza que la información sea accesible desde cualquier teléfono inteligente.
@@ -53,12 +61,6 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 <p align="center"> 
   <img src="Imagenes/Componentes.png" alt="Logo" width="300"/>
 </p>
-
-## Objetivos:
-1. Desarrollar la Pulsera RFID: Diseñar y crear la pulsera física con un chip RFID integrado.
-2. Construir la Página Web Móvil: Crear una página web móvil receptiva y fácil de usar para mostrar la información médica del usuario cuando se escanee la pulsera.
-3. Garantizar la Seguridad de los Datos: Implementar medidas de seguridad robustas para proteger los datos médicos del usuario.
-4. Pruebas de Usuario y Retroalimentación: Realizar pruebas de usuario para recopilar retroalimentación y realizar las mejoras necesarias en la pulsera y la página web móvil.
 
 ## Tecnologías Utilizadas:
 - Tecnología RFID: Para el chip integrado en la pulsera.
