@@ -1,6 +1,6 @@
-<p align="center"> 
-  # HealthTag
-</p>
+<h1 align="center"> 
+  HealthTag
+</h1>
 <p align="center"> 
   <img src="Imagenes/logoSoloImagen.png" alt="Logo" width="100" />
 </p>
