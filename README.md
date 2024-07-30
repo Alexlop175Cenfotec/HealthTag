@@ -62,10 +62,9 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 ## Tecnologías Utilizadas:
 - Tecnología RFID: Para el chip integrado en la pulsera.
 - Desarrollo Web: HTML, CSS y JavaScript para crear la página web móvil.
-- Desarrollo Backend: Tecnologías del lado del servidor para manejar el cifrado de datos y el almacenamiento seguro.
+- Desarrollo Backend: C# (ASP.NET) como tecnología del lado del servidor para manejar la lógica de la aplicación.
 - Base de Datos: Una base de datos en línea para almacenar y gestionar la información médica del usuario.
 
-  
 
 ## Escenarios de Uso:
 - Situaciones de Emergencia: Los primeros auxilios pueden acceder rápidamente a la información médica crítica escaneando la pulsera.
