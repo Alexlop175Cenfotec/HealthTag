@@ -69,7 +69,7 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 - **Tecnología RFID:** Para el chip integrado en la pulsera.
 - **Desarrollo Web:** HTML, CSS y JavaScript para crear la página web móvil.
 - **Desarrollo Backend:** C# (ASP.NET) como tecnología del lado del servidor para manejar la lógica de la aplicación.
-- **Base de Datos:** Una base de datos en línea para almacenar y gestionar la información médica del usuario.
+- **Base de Datos:** SQL Server en Azure para almacenar y gestionar la información médica del usuario.
 
 ## Escenarios de Uso
 - **Situaciones de Emergencia:** Los primeros auxilios pueden acceder rápidamente a la información médica crítica escaneando la pulsera.
