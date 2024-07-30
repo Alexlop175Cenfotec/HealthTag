@@ -19,7 +19,6 @@ Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Un
 
 Además, de la mano con el desarrollo de la pulsera, se desarrollará el software necesario para gestionar y mostrar la información médica de cada usuario de manera segura y eficiente. Este software permitirá la visualización, actualización y administración de los datos médicos del usuario.
 
-<br/>
 
 La pulsera también incorporará un lector de pulso, cuyos datos serán enviados a la aplicación y mostrados al ser escaneada. Esto permitirá a los primeros auxilios obtener no solo la información médica crítica, sino también datos actualizados sobre el estado del pulso del usuario.</p>
 
