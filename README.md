@@ -1,5 +1,8 @@
 <p align="center"> 
-  # HealthTag  <img src="Imagenes/logoSoloImagen.png" alt="Logo" width="100" />
+  # HealthTag
+</p>
+<p align="center"> 
+  <img src="Imagenes/logoSoloImagen.png" alt="Logo" width="100" />
 </p>
 
 Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Universidad Cenfotec ExpoCenfo.
