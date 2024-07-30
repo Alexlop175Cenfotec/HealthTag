@@ -38,12 +38,8 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 ## Componentes:
 
 - Microcontrolador IdeaBoard (ESP32)
-- Joystick - Ejemplo de uso
-- Pantalla LCD 16 x 2 - Ejemplo de uso
-- Módulo RFID - Ejemplo de uso
-- Relé de 2 canales - Ejemplo de uso
-- Lector de código QR - Ejemplo de uso
-- Adaptador
+- Módulo RFID
+- Sensor de Frecuencia Cardíaca
 - Cables varios (USB y jumper)
 
 <p align="center"> 
