@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <h1> 
   HealthTag
@@ -10,10 +12,10 @@ Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Un
 </div>
 
 <br/>
-  
+<body align="justify">
 <h2>Descripción del Proyecto:</h2> 
 
-<p align="justify">El proyecto de la Pulsera Médica tiene como objetivo desarrollar una pulsera inteligente integrada con tecnología RFID. Esta pulsera, al ser escaneada, mostrará la información médica del usuario en una página web móvil. El propósito es proporcionar acceso rápido a datos médicos críticos en caso de una emergencia, potencialmente salvando vidas al asegurar que los primeros auxilios tengan la información necesaria.
+<p >El proyecto de la Pulsera Médica tiene como objetivo desarrollar una pulsera inteligente integrada con tecnología RFID. Esta pulsera, al ser escaneada, mostrará la información médica del usuario en una página web móvil. El propósito es proporcionar acceso rápido a datos médicos críticos en caso de una emergencia, potencialmente salvando vidas al asegurar que los primeros auxilios tengan la información necesaria.
 
 <br/>
 
@@ -67,3 +69,4 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 - Uso Diario: Los usuarios pueden usar la pulsera a diario sin incomodidad, sabiendo que su información médica está disponible en caso de emergencia.
 - Instalaciones Médicas: Hospitales y clínicas pueden usar la pulsera para recuperar rápidamente la información del paciente durante el tratamiento.
 
+</body>
