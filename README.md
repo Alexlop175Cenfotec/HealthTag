@@ -11,7 +11,7 @@ Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Un
 
 <br/>
   
-## Descripción del Proyecto:
+<h2>Descripción del Proyecto:</h2> 
 El proyecto de la Pulsera Médica con RFID tiene como objetivo desarrollar una pulsera inteligente integrada con tecnología RFID. Esta pulsera, al ser escaneada, mostrará la información médica del usuario en una página web móvil. El propósito es proporcionar acceso rápido a datos médicos críticos en caso de una emergencia, potencialmente salvando vidas al asegurar que los primeros auxilios tengan la información necesaria.
 
 ## Características:
