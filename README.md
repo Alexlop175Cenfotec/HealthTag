@@ -37,7 +37,7 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 </p>
 
 ## Características:
-- Tecnología RFID: La pulsera incluirá un chip RFID integrado que almacenará de manera segura la información médica del usuario.
+- Tecnología RFID: La pulsera incluirá un chip RFID integrado que permitirá de manera segura el intercambio de información entre el el dispositivo y la página web.
 - Accesibilidad Móvil: Al escanear la pulsera RFID, los datos médicos del usuario se mostrarán en una página web móvil. Esto garantiza que la información sea accesible desde cualquier teléfono inteligente.
 - Información de Emergencia: La pulsera contendrá detalles médicos vitales como tipo de sangre, alergias, condiciones médicas, medicamentos y contactos de emergencia.
 - Seguridad de Datos: Los datos del usuario estarán cifrados y almacenados de manera segura, garantizando la privacidad y protección contra accesos no autorizados.
