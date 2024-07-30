@@ -37,6 +37,11 @@ El proyecto de la Pulsera Médica con RFID tiene como objetivo desarrollar una p
 - Desarrollo Backend: Tecnologías del lado del servidor para manejar el cifrado de datos y el almacenamiento seguro.
 - Base de Datos: Una base de datos en línea para almacenar y gestionar la información médica del usuario.
 
+<p align="center"> 
+  <img src="Imagenes/kitExpoCenfo.jpg" alt="Logo" width="400"/>
+</p>
+  
+
 ## Escenarios de Uso:
 - Situaciones de Emergencia: Los primeros auxilios pueden acceder rápidamente a la información médica crítica escaneando la pulsera.
 - Uso Diario: Los usuarios pueden usar la pulsera a diario sin incomodidad, sabiendo que su información médica está disponible en caso de emergencia.
