@@ -51,7 +51,7 @@ La pulsera también incorporará un lector de pulso, cuyos datos serán enviados
 - Cables varios (USB y jumper)
 
 <p align="center"> 
-  <img src="Imagenes/Componentes.ppg" alt="Logo" width="300"/>
+  <img src="Imagenes/Componentes.png" alt="Logo" width="300"/>
 </p>
 
 ## Objetivos:
