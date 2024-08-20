@@ -65,7 +65,7 @@ El siguiente proceso explica cómo conectar los componentes clave de la pulsera 
 Para mayor claridad, consulte la siguiente imagen que muestra la disposición de los pines del IdeaBoard y las conexiones necesarias para el sensor de latidos cardíacos y la pantalla LCD:
 
 <div align="center">
-  <img src="ruta/a/Imagenes/PinesIdeaboard.webp" alt="Referencia de Pines" width="500"/>
+  <img src="ruta/a/Imagenes/PinesIdeaboard.png" alt="Referencia de Pines" width="500"/>
 </div>
 
 Esta imagen ilustra claramente cómo deben ser conectados los componentes, asegurando que las conexiones sean precisas y estables.
