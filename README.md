@@ -50,7 +50,7 @@ El objetivo principal es salvar vidas al asegurar que los equipos de emergencia 
 
 ## Características
 - **Tecnología NFC:** Escaneo rápido y seguro para acceder a la información médica del usuario.
-- **Monitoreo de Frecuencia Cardíaca:** Transmisión en tiempo real de datos del pulso al sistema de gestión.
+- **Monitoreo de Frecuencia Cardíaca:** Visualización en tiempo real de los datos del pulso a través de una pantalla integrada.
 - **Acceso Móvil:** Visualización de datos a través de una página web optimizada para dispositivos móviles.
 - **Información Médica Integral:** Detalles críticos como tipo de sangre, alergias, condiciones médicas, y contactos de emergencia.
 - **Seguridad de Datos:** Cifrado avanzado y almacenamiento seguro de la información médica.
