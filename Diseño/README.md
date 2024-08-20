@@ -30,6 +30,8 @@ Una vez impresa la pulsera, siga los pasos a continuación para ensamblar correc
 3. **Finalización del Ensamblaje:**
    - Después de adherir el NFC tag, verifique que todos los componentes estén correctamente ensamblados y seguros dentro de la pulsera. Esto completa el proceso de armado de la pulsera HealthTag.
 
+  <br>
+
    <div align="center">
      <img src="Imagenes/ResultadoFinal.png" alt="Resultado Final" width="200"/>
    </div>
