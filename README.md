@@ -83,7 +83,7 @@ El objetivo principal es salvar vidas al asegurar que los equipos de emergencia 
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/Universidad-Cenfotec/HealthTag.git
+   git clone https://github.com/Alexlop175Cenfotec/HealthTag.git
 
 ## Créditos y Reconocimientos
 
@@ -93,7 +93,7 @@ Este proyecto fue desarrollado por el equipo de estudiantes de la Universidad Ce
 - Alexander López Sánchez
 - Luis Diego Dien Barrantes
 - Emerson Hidalgo Hernández
-- Sebastian Zamora Córdoba
+- Sebastián Zamora Córdoba
 
 <p align="center"> 
   <img src="Imagenes/LogoCenfotec.png" alt="Logo Cenfotec" width="150" />
