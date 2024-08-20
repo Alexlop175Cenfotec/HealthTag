@@ -3,75 +3,83 @@
   HealthTag
 </h1>
 <p align="center"> 
-  <img src="Imagenes/logoSoloImagen.png" alt="Logo" width="100" />
+  <img src="Imagenes/logoSoloImagen.png" alt="HealthTag Logo" width="100" />
 </p>
 
-Documentación correspondiente al proyecto "HealthTag" para el proyecto de la Universidad Cenfotec ExpoCenfo.
+Documentación correspondiente al proyecto **HealthTag** para la **ExpoCenfo** de la Universidad Cenfotec.
 </div>
 
 <br/>
 
 ## Índice
-- [Olimpiadas de Computación (ExpoCenfo)](#olimpiadas-de-computación-expocenfo)
+- [ExpoCenfo](#expocenfo)
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Objetivos](#objetivos)
 - [Características](#características)
 - [Componentes](#componentes)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Escenarios de Uso](#escenarios-de-uso)
+- [Instalación y Configuración](#instalación-y-configuración)
+- [Contribución](#contribución)
+- [Créditos y Reconocimientos](#créditos-y-reconocimientos)
 
 <br/>
 
-## Olimpiadas de Computación (ExpoCenfo)
+## ExpoCenfo
 
-Es una competencia nacional abierta a todos los estudiantes que cursan alguna carrera universitaria, de cualquier área. En esta competencia tendrás la oportunidad de poner a prueba tus habilidades en el desarrollo de sistemas ciberfísicos, utilizando creatividad e ingenio para crear soluciones innovadoras y prácticas.
+**ExpoCenfo** es una feria anual organizada por la Universidad Cenfotec, donde estudiantes de diversas disciplinas tienen la oportunidad de presentar proyectos innovadores en el ámbito del Internet de las Cosas (IoT). Esta competencia es una plataforma para que los participantes muestren su creatividad y habilidades en el desarrollo de sistemas ciberfísicos.
 
-El reglamento completo del desarrollo y presentación de proyectos lo puedes encontrar en este [link](https://ucenfotec.ac.cr/expocenfo/).
+El reglamento completo del desarrollo y presentación de proyectos está disponible en este [link](https://ucenfotec.ac.cr/expocenfo/).
 
 <br/>
 
 ## Descripción del Proyecto
 
-El proyecto de la Pulsera Médica tiene como objetivo desarrollar una pulsera inteligente integrada con tecnología RFID. Esta pulsera, al ser escaneada, mostrará la información médica del usuario en una página web móvil. El propósito es proporcionar acceso rápido a datos médicos críticos en caso de una emergencia, potencialmente salvando vidas al asegurar que los primeros auxilios tengan la información necesaria.
+**HealthTag** es una pulsera inteligente diseñada para proporcionar acceso rápido a información médica crítica en situaciones de emergencia. Integrando tecnología NFC y un sensor de frecuencia cardíaca, la pulsera permite a los socorristas escanear el dispositivo y obtener datos médicos esenciales del usuario, como antecedentes médicos, alergias, contactos de emergencia, y más.
 
-Además, de la mano con el desarrollo de la pulsera, se desarrollará el software necesario para gestionar y mostrar la información médica de cada usuario de manera segura y eficiente. Este software permitirá la visualización, actualización y administración de los datos médicos del usuario.
-
-La pulsera también incorporará un lector de pulso, cuyos datos serán enviados a la aplicación y mostrados al ser escaneada. Esto permitirá a los primeros auxilios obtener no solo la información médica crítica, sino también datos actualizados sobre el estado del pulso del usuario.
+El objetivo principal es salvar vidas al asegurar que los equipos de emergencia tengan acceso inmediato a la información que necesitan para tomar decisiones informadas. Además, el software complementario ofrece una interfaz para gestionar y actualizar la información médica de manera segura.
 
 <p align="center"> 
-  <img src="Imagenes/Scan.png" alt="Logo" width="250"/>
+  <img src="Imagenes/Scan.png" alt="HealthTag Scan" width="250"/>
 </p>
 
 ## Objetivos
-1. **Desarrollar la Pulsera RFID:** Diseñar y crear la pulsera física con un chip RFID integrado.
-2. **Construir el software:** Crear una página web móvil intuitiva y fácil de usar para mostrar la información médica del usuario cuando se escanee la pulsera.
-3. **Garantizar la Seguridad de los Datos:** Implementar medidas de seguridad robustas para proteger los datos médicos del usuario.
+1. **Desarrollar la Pulsera HealthTag:** Diseñar y fabricar una pulsera cómoda y duradera con tecnología NFC.
+2. **Construir el Sistema de Gestión Médica:** Crear una plataforma web intuitiva para mostrar y administrar la información médica del usuario.
+3. **Garantizar la Seguridad de los Datos:** Implementar medidas de seguridad avanzadas para proteger la información médica del usuario.
 
 ## Características
-- **Tecnología RFID:** La pulsera incluirá un chip RFID integrado que permitirá de manera segura el intercambio de información entre el dispositivo y la página web.
-- **Accesibilidad Móvil:** Al escanear la pulsera RFID, los datos médicos del usuario se mostrarán en una página web móvil. Esto garantiza que la información sea accesible desde cualquier teléfono inteligente con NFC.
-- **Información de Emergencia:** La pulsera contendrá detalles médicos vitales como tipo de sangre, alergias, condiciones médicas, medicamentos y contactos de emergencia.
-- **Seguridad de Datos:** Los datos del usuario estarán cifrados y almacenados de manera segura, garantizando la privacidad y protección contra accesos no autorizados.
-- **Diseño Amigable:** La pulsera será cómoda de usar y diseñada para ser duradera, adecuada para el uso diario.
+- **Tecnología NFC:** Escaneo rápido y seguro para acceder a la información médica del usuario.
+- **Monitoreo de Frecuencia Cardíaca:** Transmisión en tiempo real de datos del pulso al sistema de gestión.
+- **Acceso Móvil:** Visualización de datos a través de una página web optimizada para dispositivos móviles.
+- **Información Médica Integral:** Detalles críticos como tipo de sangre, alergias, condiciones médicas, y contactos de emergencia.
+- **Seguridad de Datos:** Cifrado avanzado y almacenamiento seguro de la información médica.
+- **Diseño Ergonomico:** Pulsera ligera y resistente, diseñada para el uso diario.
 
 ## Componentes
 
-- **Microcontrolador IdeaBoard (ESP32)**
-- **Módulo RFID**
+- **Microcontrolador ESP32**
+- **Módulo NFC/RFID**
 - **Sensor de Frecuencia Cardíaca**
-- **Cables varios (USB y jumper)**
+- **Cables y Conectores**
 
 <p align="center"> 
-  <img src="Imagenes/Componentes.png" alt="Logo" width="300"/>
+  <img src="Imagenes/Componentes.png" alt="Componentes HealthTag" width="300"/>
 </p>
 
 ## Tecnologías Utilizadas
-- **Tecnología RFID:** Para el chip integrado en la pulsera.
-- **Desarrollo Web:** HTML, CSS y JavaScript para crear la página web móvil.
-- **Desarrollo Backend:** C# (ASP.NET) como tecnología del lado del servidor para manejar la lógica de la aplicación.
-- **Base de Datos:** SQL Server en Azure para almacenar y gestionar la información médica del usuario.
+- **NFC/RFID:** Para la identificación rápida y segura mediante la pulsera.
+- **Desarrollo Web:** HTML, CSS y JavaScript para la creación de la interfaz de usuario.
+- **Backend:** ASP.NET con C# para manejar la lógica de la aplicación y las comunicaciones con la base de datos.
+- **Base de Datos:** SQL Server en Azure para el almacenamiento y gestión de los datos médicos.
 
 ## Escenarios de Uso
-- **Situaciones de Emergencia:** Los primeros auxilios pueden acceder rápidamente a la información médica crítica escaneando la pulsera.
-- **Uso Diario:** Los usuarios pueden usar la pulsera a diario sin incomodidad, sabiendo que su información médica está disponible en caso de emergencia.
-- **Instalaciones Médicas:** Hospitales y clínicas pueden usar la pulsera para recuperar rápidamente la información del paciente durante el tratamiento.
+- **Emergencias Médicas:** Acceso instantáneo a información médica crucial durante una emergencia.
+- **Uso Diario:** Comodidad y seguridad en el uso diario de la pulsera, con la tranquilidad de que su información médica está protegida.
+- **Centros Médicos:** Uso en hospitales y clínicas para acceder rápidamente al historial médico del paciente.
+
+## Instalación y Configuración
+
+1. **Clonar el Repositorio:**
+   ```bash
+   git clone https://github.com/Universidad-Cenfotec/HealthTag.git
