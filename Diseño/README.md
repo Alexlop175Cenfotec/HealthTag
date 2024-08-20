@@ -3,7 +3,7 @@
 El proceso de diseño de la pulsera HealthTag se centró en crear un dispositivo funcional y estéticamente agradable que pueda ser impreso en 3D de manera rápida y eficiente. A continuación, se describen los archivos y recomendaciones para la impresión:
 
 <div align="center">
-  <img src="Imagenes/EjemplosPulseras.png" alt="Pulsera" width="500"/>
+  <img src="Imagenes/EjemploPulseras.png" alt="Pulsera" width="500"/>
 </div>
 
 ### Archivos de Diseño
@@ -11,7 +11,7 @@ El proceso de diseño de la pulsera HealthTag se centró en crear un dispositivo
 - **Pulsera.stl**: Este archivo contiene el diseño completo de la pulsera HealthTag. El diseño está optimizado para una impresión 3D profesional, asegurando durabilidad y gran velocidad de fabricación. El archivo está listo para ser impreso.
 
 <div align="center">
-  <img src="Imagenes/SensorEnPulsera.png" alt="Sensor en Pulsera" width="500"/>
+  <img src="Imagenes/Modelo Pulsera.png" alt="Sensor en Pulsera" width="500"/>
 </div>
 
 ### Recomendaciones para la Impresión 3D
