@@ -58,10 +58,11 @@ El objetivo principal es salvar vidas al asegurar que los equipos de emergencia 
 
 ## Componentes
 
-- **Microcontrolador ESP32**
-- **Módulo NFC/RFID**
+- **Microcontrolador IdeaBoard (ESP32)**
 - **Sensor de Frecuencia Cardíaca**
-- **Cables y Conectores**
+- **Pantalla LCD 16 x 2**
+- **Tarjetas RFID**
+- **Cables varios (USB y jumper)**
 
 <p align="center"> 
   <img src="Imagenes/Componentes.png" alt="Componentes HealthTag" width="300"/>
