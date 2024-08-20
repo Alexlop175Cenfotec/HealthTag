@@ -19,8 +19,8 @@ Documentación correspondiente al proyecto **HealthTag** para la **ExpoCenfo** d
 - [Componentes](#componentes)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Escenarios de Uso](#escenarios-de-uso)
+- [Cómo Utilizarlo](#cómo-utilizarlo)
 - [Instalación y Configuración](#instalación-y-configuración)
-- [Contribución](#contribución)
 - [Créditos y Reconocimientos](#créditos-y-reconocimientos)
 
 <br/>
