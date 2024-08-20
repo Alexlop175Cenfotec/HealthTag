@@ -93,7 +93,7 @@ Este proyecto fue desarrollado por el equipo de estudiantes de la Universidad Ce
 - Alexander López Sánchez
 - Luis Diego Dien Barrantes
 - Emerson Hidalgo Hernández
-- Sebatian Zamora Córdoba
+- Sebastian Zamora Córdoba
 
 <p align="center"> 
   <img src="Imagenes/LogoCenfotec.png" alt="Logo Cenfotec" width="150" />
