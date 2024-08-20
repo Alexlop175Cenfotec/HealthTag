@@ -1,0 +1,22 @@
+Non-Commercial Use License
+
+Copyright (c) 2024 Emerson Hidalgo Hernández and Contributors:
+Luis Diego Dien Barrantes
+Alexander López Sánchez
+Sebastián Zamora Córdoba 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software for personal, non-commercial use only, including without limitation the rights to use, copy, and modify the Software, subject to the following conditions:
+
+Non-Commercial Use Only: This software may not be used, distributed, or modified for any commercial purpose.
+No Redistribution: You may not distribute, publish, or sublicense copies of the Software.
+Attribution: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Modification: Any modifications made to the Software must retain this license and cannot be distributed.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
