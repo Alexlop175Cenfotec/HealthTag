@@ -18,7 +18,11 @@ Una vez impresa la pulsera, siga los pasos a continuación para ensamblar correc
 1. **Preparación del NFC Tag:**
    - Tome el NFC tag y, utilizando una lija fina, moldéelo cuidadosamente para que se ajuste perfectamente al espacio designado en la pulsera. Este paso es crucial para asegurar un ajuste limpio y seguro.
 
-   <img src="Imagenes/TagNFC.png" alt="NFC Tag" width="175"/> <img src="Imagenes/Lija.png" alt="Lija" width="150"/> <img src="Imagenes/TagFinal.png" alt="Tag Final" width="150"/>
+   <div align="center">
+     <img src="Imagenes/TagNFC.png" alt="NFC Tag" width="175"/> 
+     <img src="Imagenes/Lija.png" alt="Lija" width="150"/> 
+     <img src="Imagenes/TagFinal.png" alt="Tag Final" width="150"/>
+   </div>
 
 2. **Adhesión del NFC Tag:**
    - Una vez que el tag esté correctamente moldeado, proceda a fijarlo en la pulsera utilizando un adhesivo adecuado. Asegúrese de que el tag esté bien alineado y sujeto para evitar cualquier movimiento indeseado durante el uso.
@@ -26,4 +30,6 @@ Una vez impresa la pulsera, siga los pasos a continuación para ensamblar correc
 3. **Finalización del Ensamblaje:**
    - Después de adherir el NFC tag, verifique que todos los componentes estén correctamente ensamblados y seguros dentro de la pulsera. Esto completa el proceso de armado de la pulsera HealthTag.
 
-   <img src="Imagenes/ResultadoFinal.png" alt="Resultado Final" width="200"/>
+   <div align="center">
+     <img src="Imagenes/ResultadoFinal.png" alt="Resultado Final" width="200"/>
+   </div>
