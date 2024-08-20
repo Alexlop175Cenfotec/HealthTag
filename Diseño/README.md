@@ -35,6 +35,8 @@ Una vez impresa la pulsera, siga los pasos a continuación para ensamblar correc
    <div align="center">
      <img src="Imagenes/ResultadoFinal.png" alt="Resultado Final" width="200"/>
    </div>
+
+   
 ## Instrucciones de Armado del Hardware
 
 El siguiente proceso explica cómo conectar los componentes clave de la pulsera HealthTag, específicamente el sensor de latidos cardíacos y la pantalla LCD.
