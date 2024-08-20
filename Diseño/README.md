@@ -87,10 +87,10 @@ La integración del hardware dentro de la pulsera HealthTag es un paso crucial p
    - El sensor de pulsos debe ser colocado en la parte **inferior** de la pulsera, de manera que quede en contacto directo con la piel del usuario. Esto es fundamental para obtener lecturas precisas del ritmo cardíaco.
 
 2. **Alineación del Sensor:**
-   - Asegúrese de que el sensor quede correctamente alineado y sujeto dentro de la pulsera. El sensor debe quedar orientado hacia la parte **superior** de la pulsera, donde se encuentra la pantalla, para facilitar la transmisión de datos.
+   - Asegúrese de que el sensor quede correctamente alineado y sujeto dentro de la pulsera.
 
 3. **Fijación del Sensor:**
-   - Utilice un adhesivo seguro o clips de sujeción para fijar el sensor en su lugar, asegurándose de que no se mueva durante el uso diario. La estabilidad del sensor es esencial para la precisión de las lecturas.
+   - Utilice un adhesivo seguro para fijar el sensor en su lugar, asegurándose de que no se mueva durante el uso diario. La estabilidad del sensor es esencial para la precisión de las lecturas.
 
 ### Consideraciones sobre la Pantalla
 
