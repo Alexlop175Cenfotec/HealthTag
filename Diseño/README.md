@@ -74,3 +74,39 @@ Esta imagen ilustra claramente cómo deben ser conectados los componentes, asegu
 ---
 
 Asegúrese de revisar todas las conexiones antes de alimentar el sistema para evitar daños en los componentes. Si tiene alguna duda, consulte la documentación 
+
+
+
+## Incorporación del Hardware con la Pulsera
+
+La integración del hardware dentro de la pulsera HealthTag es un paso crucial para asegurar tanto la funcionalidad como la comodidad del usuario. A continuación, se describen los pasos para colocar correctamente el sensor de pulsos en la pulsera.
+
+### Colocación del Sensor de Pulsos
+
+1. **Ubicación del Sensor:**
+   - El sensor de pulsos debe ser colocado en la parte **inferior** de la pulsera, de manera que quede en contacto directo con la piel del usuario. Esto es fundamental para obtener lecturas precisas del ritmo cardíaco.
+
+2. **Alineación del Sensor:**
+   - Asegúrese de que el sensor quede correctamente alineado y sujeto dentro de la pulsera. El sensor debe quedar orientado hacia la parte **superior** de la pulsera, donde se encuentra la pantalla, para facilitar la transmisión de datos.
+
+3. **Fijación del Sensor:**
+   - Utilice un adhesivo seguro o clips de sujeción para fijar el sensor en su lugar, asegurándose de que no se mueva durante el uso diario. La estabilidad del sensor es esencial para la precisión de las lecturas.
+
+### Consideraciones sobre la Pantalla
+
+Debido al tamaño actual de la pantalla LCD, no es posible integrarla directamente en la pulsera. Sin embargo, en futuras versiones del proyecto, se planea implementar una pantalla más compacta que pueda colocarse sobre el **Tag NFC** de la pulsera. Esta pantalla permitirá visualizar los latidos del usuario directamente desde la pulsera, mejorando aún más la funcionalidad del dispositivo.
+
+### Imagen de Referencia de la Integración
+
+Para mayor claridad, consulte la siguiente imagen que muestra la disposición correcta del sensor de pulsos dentro de la pulsera:
+
+<div align="center">
+  <img src="ruta/a/Imagenes/SensorEnPulsera.png" alt="Sensor en Pulsera" width="500"/>
+</div>
+
+Esta imagen ilustra cómo debe ser colocado el sensor dentro de la pulsera para asegurar un rendimiento óptimo y comodidad para el usuario.
+
+---
+
+Una vez que el sensor esté correctamente incorporado, asegúrese de realizar pruebas para verificar que las lecturas de pulsos sean precisas y consistentes.
+
