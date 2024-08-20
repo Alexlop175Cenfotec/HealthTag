@@ -16,10 +16,13 @@ El proceso de diseño de la pulsera HealthTag se centró en crear un dispositivo
 Una vez impresa la pulsera, siga los pasos a continuación para ensamblar correctamente los componentes electrónicos:
 
 1. **Preparación del NFC Tag:**
-   - Tome el NFC tag y, utilizando una lija fina, moldeelo cuidadosamente para que se ajuste perfectamente al espacio designado en la pulsera. Este paso es crucial para asegurar un ajuste limpio y seguro.
-   
+   - Tome el NFC tag y, utilizando una lija fina, moldéelo cuidadosamente para que se ajuste perfectamente al espacio designado en la pulsera. Este paso es crucial para asegurar un ajuste limpio y seguro.
+
+   ![NFC Tag](Imagenes/TagNFC.png) ![Lija](Imagenes/Lija.png) ![Tag Final](Imagenes/TagFinal.png)
+
 2. **Adhesión del NFC Tag:**
    - Una vez que el tag esté correctamente moldeado, proceda a fijarlo en la pulsera utilizando un adhesivo adecuado. Asegúrese de que el tag esté bien alineado y sujeto para evitar cualquier movimiento indeseado durante el uso.
 
 3. **Finalización del Ensamblaje:**
-   - Después de adherir el NFC tag, verifique que el tag esté correctamente ensamblado y seguro en la pulsera. Esto completa el proceso de armado de la pulsera HealthTag.
+   - Después de adherir el NFC tag, verifique que todos los componentes estén correctamente ensamblados y seguros dentro de la pulsera. Esto completa el proceso de armado de la pulsera HealthTag.
+
