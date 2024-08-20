@@ -35,9 +35,9 @@ El reglamento completo del desarrollo y presentación de proyectos está disponi
 
 ## Descripción del Proyecto
 
-**HealthTag** es una pulsera inteligente diseñada para proporcionar acceso rápido a información médica crítica en situaciones de emergencia. Integrando tecnología NFC y un sensor de frecuencia cardíaca, la pulsera permite a los socorristas escanear el dispositivo y obtener datos médicos esenciales del usuario, como antecedentes médicos, alergias, contactos de emergencia, y más.
+**HealthTag** es una pulsera inteligente diseñada para proporcionar acceso rápido a información médica crítica en situaciones de emergencia, integrando tecnología NFC y un sensor de frecuencia cardíaca. La pulsera permite a los personas escanear el dispositivo y obtener datos médicos esenciales del usuario, como antecedentes médicos, alergias, contactos de emergencia y más.
 
-El objetivo principal es salvar vidas al asegurar que los equipos de emergencia tengan acceso inmediato a la información que necesitan para tomar decisiones informadas. Además, el software complementario ofrece una interfaz para gestionar y actualizar la información médica de manera segura.
+El objetivo principal es salvar vidas al asegurar que los equipos de emergencia y personas cercanas a la situación tengan acceso inmediato a la información que necesitan para tomar decisiones informadas. Además, el software complementario ofrece una interfaz para gestionar y actualizar la información médica de manera segura.
 
 <p align="center"> 
   <img src="Imagenes/Scan.png" alt="HealthTag Scan" width="250"/>
