@@ -56,7 +56,7 @@ El siguiente proceso explica cómo conectar los componentes clave de la pulsera 
    
 2. **Conexión del Sensor:**
    - Conecte el pin de señal del sensor al pin **IO33** del IdeaBoard.
-   - Conecte el pin de alimentación del sensor a **3.3V** y el pin de tierra a **GND**.
+   - Conecte el pin de alimentación del sensor a **3.3V** y el pin de tierra a **GND** en el pin pin IO04.
 
 ### Conexión de la Pantalla LCD 16x2
 
