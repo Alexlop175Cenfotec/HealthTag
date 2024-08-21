@@ -67,7 +67,7 @@ El objetivo principal es salvar vidas al asegurar que los equipos de emergencia 
 - **Cables varios (USB y jumper)**
 
 <p align="center"> 
-  <img src="Imagenes/Componentes.png" alt="Componentes HealthTag" width="500"/>
+  <img src="Imagenes/Componentes.png" alt="Componentes HealthTag" width="500" height="500"/>
 </p>
 
 ## Tecnologías Utilizadas
