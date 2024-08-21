@@ -109,7 +109,7 @@ Debido al tamaño actual de la pantalla LCD, no es posible integrarla directamen
 Para mayor claridad, consulte la siguiente imagen que muestra la disposición correcta del sensor de pulsos dentro de la pulsera:
 
 <div align="center">
-  <img src="ruta/a/Imagenes/SensorEnPulsera.png" alt="Sensor en Pulsera" width="500"/>
+  <img src="Imagenes/SensorEnPulsera.png" alt="Sensor en Pulsera" width="500"/>
 </div>
 
 Esta imagen ilustra cómo debe ser colocado el sensor dentro de la pulsera para asegurar un rendimiento óptimo y comodidad para el usuario.
